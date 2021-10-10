@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name AOM-TPM-9665-rescue)(type Legacy)(uri ${KIPRJMOD}/AOM-TPM-9665-rescue.lib)(options "")(descr ""))
+)
