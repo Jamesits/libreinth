@@ -1,8 +1,8 @@
-# TPM Daughter Boards
+# libreinth
+
+Libreinth (reads: /ˈlibəɹɪnθ/) is a collection of TPM daughter boards compatible with some motherboards with TPM/LPC headers.
 
 Notes:
 
-- NO board has been tested; use it at your own risk
-- The boards are not 1:1 replica to the commercial ones:
-  - They are somewhat pin2pin compatible
-  - The external connectors and testpoints are not compatible with commercial ones.
+- They are not tested and might fry your computer; use it at your own risk
+- Every board comes with its own caveats; please read the board's readme before using
